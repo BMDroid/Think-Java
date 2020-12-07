@@ -1,9 +1,9 @@
 /*
- * @Description: 
+ * @Description: First java program
  * @Author: BO Jianyuan
  * @Date: 2020-12-07 15:00:43
  * @LastEditors: BO Jianyuan
- * @LastEditTime: 2020-12-07 15:16:41
+ * @LastEditTime: 2020-12-07 15:19:51
  */
 import java.time.format.DateTimeFormatter; 
 import java.time.LocalDateTime;    
